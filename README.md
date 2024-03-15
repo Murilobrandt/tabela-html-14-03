@@ -75,5 +75,4 @@ L2, C1	L2, C2
                     <body>
                         <h1>Inline CSS</h1>
                     </body>
-                    </html>
-                                                               
+                    </html>                   
